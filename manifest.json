@@ -1,10 +1,12 @@
 {
-  "id": "MemoryLite",
-  "name": "MemoryLite",
-  "version": "1.0.0",
-  "description": "偵測特定語句並寫入角色記憶，模擬內建記憶功能，不需 Extras API。",
-  "main": "index.js",
+  "display_name": "MemoryLite",
+  "loading_order": 1,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "",
   "author": "Anni",
-  "settings": true,
-  "license": "MIT"
+  "version": "1.0.0",
+  "homePage": "https://github.com/yourusername/Extension-MemoryLite",
+  "auto_update": true
 }
