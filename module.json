@@ -1,0 +1,8 @@
+{
+  "name": "MemoryLite",
+  "description": "模擬記憶模組，當對話中出現關鍵語句時，自動寫入角色記憶。",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Anni",
+  "license": "MIT"
+}

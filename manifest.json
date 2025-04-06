@@ -1,0 +1,10 @@
+{
+  "id": "MemoryLite",
+  "name": "MemoryLite",
+  "version": "1.0.0",
+  "description": "偵測特定語句並寫入角色記憶，模擬內建記憶功能，不需 Extras API。",
+  "main": "index.js",
+  "author": "Anni",
+  "settings": true,
+  "license": "MIT"
+}
